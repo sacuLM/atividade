@@ -1,4 +1,29 @@
+body{
+    background-color: bisque;   
+}
+
+#tudo{
+    background-color: rgb(233, 200, 160);
+}
 
 #titulo{
-    color: aqua;
+    color: rgb(179, 96, 57);
+    justify-content: center;
+    display: flex;
+    
+}
+
+#escolha{
+    display: flex;
+    justify-content: space-around;
+    ;
+}
+
+#botao{
+    margin: 20px;
+    color: rgb(92, 60, 23);
+    height: 120px;
+    width: 240px;
+    background-color: blanchedalmond;
+    font-size:x-large;
 }

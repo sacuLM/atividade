@@ -1,1 +1,1 @@
-import * as  service from './cadastro.service'
+import * as  service from './cadastro.service.js'
